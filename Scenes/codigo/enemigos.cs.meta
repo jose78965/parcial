@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: daa7b5596a82cd5488f9ea0f1e101990
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - amarillo: {fileID: 8846386082808918432, guid: ef248b44feb4c824badd69aaa3d9c926, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
